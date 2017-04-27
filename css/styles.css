@@ -1,0 +1,20 @@
+#hidden1 {
+  display: none;
+}
+#hidden2 {
+  display: none;
+}
+#hidden3 {
+  display: none;
+}
+img {
+  height: 300px;
+  width: 350px;
+  margin: 40px;
+
+}
+#row2 {
+  margin-top: 20px;
+  border: 2px solid green;
+  height: 400px;
+}
